@@ -19,7 +19,8 @@ Para ejecutar la aplicación, sigue estos pasos:
     ```
 ## Capturas de Pantalla
 ![Captura de pantalla 1]( https://github.com/BryanR69/Controles-DatePicker-y-ColorPicker/blob/main/CAPTURA%20DE%20PANTALLA%201.png)
-![Captura de pantalla 2]( https://github.com/BryanR69/Controles-DatePicker-y-ColorPicker/blob /main/CAPTURA%20DE%20PANTALLA%202.png)
+
+![Captura de pantalla 2]( https://github.com/BryanR69/Controles-DatePicker-y-ColorPicker/blob/main/CAPTURA%20DE%20PANTALLA%202.png) 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 1. Haz un fork del repositorio.
